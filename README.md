@@ -11,7 +11,7 @@ Folder-M3U_Creator is a C# application designed to organize multimedia files int
 
 ## Provided Files in Repository
 
--net9.0-windows. This folder containes just the application. you will need to install windows net9.0 to run
+- net9.0-windows. This folder containes just the application. you will need to install windows net9.0 to run
 
 - Win-x64 Folder. This is the complete selfcontained program that allows you to run the program without installing .NET SDK. click on the FolderM3uCreator.exe to run the program. 
 
