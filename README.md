@@ -43,7 +43,7 @@ Folder-M3U_Creator is a C# application designed to organize multimedia files int
 <img src="Assets/m3u_file.png" alt="m3u File" width="600pt" height="600pt">
 
 
-- It will display an updated list of directories that can be created based on the files in the selected folder.
+- It will display an updated list of file that can be organized in the selected folder.
 
 <img src="Assets/updated_file_selection.png" alt="Updated File Selection" width="600pt" height="600pt">
 
