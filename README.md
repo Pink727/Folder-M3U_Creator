@@ -21,6 +21,17 @@ Folder-M3U_Creator is a C# application designed to organize multimedia files int
 
 ## Usage
 - Upon execution, the application will prompt you to select a folder.
+
+![Main Screen](Assets/main_Screen.png)
+
+- It will display a list of directories that can be created based on the files in the selected folder.
+
+<img src="Assets/folder_unorganized.png" alt="Folder Organized" width="600pt" height="600pt">
+
+![Folder Organized](Assets/folder_unorganized.png)
+
+- You can deselect any directories you do not wish to create.
+- Once confirmed, the application will organize the files and generate `.m3u` playlists.
 - It will display a list of directories that can be created based on the files in the selected folder.
 - You can deselect any directories you do not wish to create.
 - Once confirmed, the application will organize the files and generate `.m3u` playlists.
