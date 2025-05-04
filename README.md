@@ -22,17 +22,31 @@ Folder-M3U_Creator is a C# application designed to organize multimedia files int
 ## Usage
 - Upon execution, the application will prompt you to select a folder.
 
-![Main Screen](Assets/main_Screen.png)
+
+<img src="Assets/main_Screen.png" alt="Main Screen" width="600pt" height="600pt">
+
 
 - It will display a list of directories that can be created based on the files in the selected folder.
 
-<img src="Assets/Folder_unorganized.png" alt="Folder Organized" width="600pt" height="600pt">
+- You can deselect any files that you do not want to organize.
 
-- You can deselect any directories you do not wish to create.
+<img src="Assets/file_selection.png" alt="File Selection" width="600pt" height="600pt">
+
+<img src="Assets/Folder_unorganized.png" alt="Folder unOrganized" width="600pt" height="600pt">
+
 - Once confirmed, the application will organize the files and generate `.m3u` playlists.
-- It will display a list of directories that can be created based on the files in the selected folder.
-- You can deselect any directories you do not wish to create.
-- Once confirmed, the application will organize the files and generate `.m3u` playlists.
+
+<img src="Assets/folder_organized.png" alt="Folder Organized" width="600pt" height="600pt">
+
+<img src="Assets/organized_sub_folder.png" alt="Organized Sub Folder" width="600pt" height="600pt">
+
+<img src="Assets/m3u_file.png" alt="m3u File" width="600pt" height="600pt">
+
+
+- It will display an updated list of directories that can be created based on the files in the selected folder.
+
+<img src="Assets/updated_file_selection.png" alt="Updated File Selection" width="600pt" height="600pt">
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
